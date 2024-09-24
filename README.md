@@ -6,7 +6,7 @@
 
 ## 📸 Demo
 
-![Alt text](./screenshots/main page user)
+![Alt text](./screenshots/main%20page%20user)
  <!-- Optional: Add images or GIFs to showcase the app -->
 
 ## 🚀 Features
