@@ -6,8 +6,15 @@
 
 ## 📸 Demo
 
-![Alt text](./screenshots/main%20page%20user%20.png)
- <!-- Optional: Add images or GIFs to showcase the app -->
+### Main Page
+![main page for logged in user](./screenshots/main%20page%20user%20.png)
+
+### Search Page 
+![search page for logged in in user](./screenshots/search%20page%20user%20.png)
+
+### Favorites Page
+ ![favorites page](./screenshots/favorite%20recipes%20user%20.png)
+
 
 ## 🚀 Features
 
