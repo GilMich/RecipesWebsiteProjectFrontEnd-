@@ -6,7 +6,8 @@
 
 ## 📸 Demo
 
-![App Screenshot](link-to-screenshot.png) <!-- Optional: Add images or GIFs to showcase the app -->
+![Alt text](path-to-image)
+ <!-- Optional: Add images or GIFs to showcase the app -->
 
 ## 🚀 Features
 
